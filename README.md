@@ -1,28 +1,23 @@
 <h1>Witam wszystkich na mojej stronie </h1> </p>
 <h2>Poniżej znajduje się 180 dniowy plan który  mam nadzieję przybliży niejedenego do zostania pentesterem </p>
 </h2>  
-Dzień 1-7: Podstawy Sieci
-
-Dzień 1-2: Zrozum budowę sieci komputerowych.
-Dzień 3-4: Poznaj model OSI.
-Dzień 5-7: Nauka o protokołach TCP/IP.
-Dzień 8-21: Systemy operacyjne
-
-Dzień 8-14: Zaznajom się z systemem Linux.
-Dzień 15-21: Nauka obsługi systemu Windows.
-Dzień 22-35: Programowanie i Skrypty
-
-Dzień 22-28: Nauka podstaw programowania (np. Python).
-Dzień 29-35: Poznaj podstawy skryptów i automatyzacji.
-Dzień 36-49: Bezpieczeństwo Informacji
-
-Dzień 36-42: Zrozum podstawy bezpieczeństwa informacji i kryptografii.
-Dzień 43-49: Nauka o zarządzaniu dostępem i uwierzytelnianiu.
-Dzień 50-70: Pentesting
-
-Dzień 50-56: Nauka o narzędziach do testów penetracyjnych, takich jak Kali Linux.
-Dzień 57-70: Praktykuj podstawowe techniki pentestingu na swoim środowisku testowym.
-Dzień 71-91: Sieci komputerowe
+Dzień 1-7: Podstawy Sieci</p>
+Dzień 1-2: Zrozum budowę sieci komputerowych.</p>
+Dzień 3-4: Poznaj model OSI.</p>
+Dzień 5-7: Nauka o protokołach TCP/IP.</p>
+Dzień 8-21: Systemy operacyjne.</p>
+Dzień 8-14: Zaznajom się z systemem Linux.</p>
+Dzień 15-21: Nauka obsługi systemu Windows.</p>
+Dzień 22-35: Programowanie i Skrypty.</p>
+Dzień 22-28: Nauka podstaw programowania (np. Python).</p>
+Dzień 29-35: Poznaj podstawy skryptów i automatyzacji.</p>
+Dzień 36-49: Bezpieczeństwo Informacji.</p>
+Dzień 36-42: Zrozum podstawy bezpieczeństwa informacji i kryptografii.</p>
+Dzień 43-49: Nauka o zarządzaniu dostępem i uwierzytelnianiu.</p>
+Dzień 50-70: Pentesting.</p>
+Dzień 50-56: Nauka o narzędziach do testów penetracyjnych, takich jak Kali Linux.</p>
+Dzień 57-70: Praktykuj podstawowe techniki pentestingu na swoim środowisku testowym.</p>
+Dzień 71-91: Sieci komputerowe.</p>
 
 Dzień 71-77: Zrozum konfigurację i administrowanie sieciami.
 Dzień 78-91: Nauka o podstawach firewalli, routingu i filtracji.
