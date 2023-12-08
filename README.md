@@ -17,7 +17,7 @@ ZDOBYTA WIEDZA :
  
   Ku pamięci :
    - LTS - long term support
-   - / - root![image](https://github.com/mateuszwozny/linux/assets/44165175/a42f0af4-a213-4624-a992-013bede5fd69)
+   - / - root
 
 
 
